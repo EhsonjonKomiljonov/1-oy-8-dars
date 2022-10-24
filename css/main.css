@@ -197,6 +197,8 @@ p {
 
 
 /*                                                             STARTED MAIN SECTION */
+
+
 /*                                                             STARTED NEWS SECTION */
 
 .news-inner {
@@ -725,6 +727,77 @@ textarea {
 /*                                                             FINISHED ECONOMIC HTML */
 
 
+/*                                                             STARTED INTERESTING HTML */
+
+/*                                                             STARTED INTERESTING-LEFT HTML */
+
+.interesting-title {
+  margin: 0;
+  margin: 50px 0 40px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.interesting {
+  display: flex;
+}
+
+.interesting-item {
+  width: 797px;
+  display: flex;
+  background: #F6F6F6;
+  border-radius: 15px;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+.left-items {
+  width: 535px;
+  margin-left: 15px;
+}
+
+.interesting-subtitle {
+  margin: 0;
+  margin-bottom: 10px;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 26px;
+}
+
+.interesting-text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  color: #4A4B4C;
+  margin-bottom: 17px;
+}
+
+.interesting-bottom {
+  width: 177px;
+  display: flex;
+  align-items: center;
+}
+
+.bottom-image {
+  margin-right: 10px;
+}
+
+.interesting-time {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  color: #5E5F61;
+}
+
+/*                                                             FINISHED INTERESTING-LEFT HTML */
+
+
+/*                                                             FINISHED INTERESTING HTML */
 
 
 
